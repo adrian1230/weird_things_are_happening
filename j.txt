@@ -1,1 +1,0 @@
-git push https://'afirecruisesonhisisland':'password'@github.com/afirecruisesonhisisland/digitclusters_analomlies.git
